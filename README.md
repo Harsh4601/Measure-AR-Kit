@@ -1,4 +1,4 @@
-# Measure AR-Kit
+# Measure AR-Kit 
 ## It is a basic app which measures the distance between two points in cm using Augmented Reality
 
 ![Badge](https://img.shields.io/badge/Measure-App-yellowGreen)
@@ -8,13 +8,13 @@
 ![badge](https://img.shields.io/badge/iOS-14-blue)
 ![badge](https://img.shields.io/badge/Platfrom-iOS-orange)
 
-# Libraries Used📚
+# Libraries Used 📚
 * UI Kit
 * Scene kit
 * AR Kit
 * Foundation
 
-# SnapShots📸
+# SnapShots 📸
 ![Untitled design-4](https://github.com/Harsh4601/Measure-AR-Kit-/blob/main/Measure%20SS/ss1%20bg.png)
 ![Untitled design-4](https://github.com/Harsh4601/Measure-AR-Kit-/blob/main/Measure%20SS/ss2%20bg.png)
 
